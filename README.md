@@ -27,10 +27,10 @@ BlindTest:
   givepoint Give a point to a player. You have to mention him with a @ 
   id        Print discord user id
   reg       Register the caller as a player 
-  score     Print player's score. You have to mention him with @. No param = ...
+  score     Print player's score. You have to mention him with @.
   start     Start a blindtest 
   stop      Stop the blindtest and leave the voice channel 
-  summon    Add the bot to your voice channel, you must call it before starti...
+  summon    Add the bot to your voice channel.
   unreg     Remove yourself from the player list 
 No Category:
   help      Shows this message.
